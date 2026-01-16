@@ -6,7 +6,8 @@ namespace HRLib
 {
     public class Trainee : Employee
     {
-		private int noOfDays;
+        //no of days worked
+        private int noOfDays;
 
 		public int NoOfDays
 		{

@@ -2,6 +2,7 @@
 {
     public abstract class Employee
     {
+        //last employee number assigned
         private static int lastEmpNo = 1000;
 
 		private int empNo;

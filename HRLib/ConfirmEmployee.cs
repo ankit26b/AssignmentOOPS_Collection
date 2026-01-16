@@ -6,6 +6,7 @@ namespace HRLib
 {
     public class ConfirmEmployee : Employee
     {
+        //Minimum basic salary allowed
 
         private const double MinBasic = 5000.0;
 

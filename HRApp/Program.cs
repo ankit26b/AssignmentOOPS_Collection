@@ -6,6 +6,10 @@ namespace HRApp
     {
         static void Main(string[] args)
         {
+
+            #region git check
+            Console.WriteLine("Git Check");
+            #endregion
             Console.WriteLine("HRApp Test");
 
             ConfirmEmployee confirm = new ConfirmEmployee();
