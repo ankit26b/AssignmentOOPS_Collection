@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HRApp/HRApp.csproj" Id="d0ae5b0e-d79c-4514-a785-db5be53a750d" />
+  <Project Path="HRLib/HRLib.csproj" />
+</Solution>
